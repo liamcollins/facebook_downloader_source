@@ -10,9 +10,9 @@ In the meantime a few things that could be made better:
 
 1. Obviously the "WindowsFormsApp1" name should go.
 2. Using xpath the way I am currently is very fragile and will break as soon as facebook changes anything. 
-  Xpaths could possibly be tweaked to be at least a little less fragile
-  Xpaths could be pulled live from somewhere so that they can be updated for those who have already downloaded the exe
-  Maybe there's a completely better way
+  Xpaths could possibly be tweaked to be at least a little less fragile.
+  Xpaths could be pulled live from somewhere so that they can be updated for those who have already downloaded the exe.
+  Maybe there's a completely better way.
 3. Deployment is a problem - it would be good to bundle everything in such a way that there is either an installer or just one exe file for download, not a whole zip file.
 4. Maybe some kind of open licensing agreement?
 5. Note about "as is" nature of software.
