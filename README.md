@@ -17,3 +17,4 @@ In the meantime a few things that could be made better:
 4. Maybe some kind of open licensing agreement?
 5. Note about "as is" nature of software.
 6. Not necessary but would be a cool addition to actually download videos too.
+7. JIT debugging should be enabled. Also main window should close automatically when chrome is closed, not give ugly error.
