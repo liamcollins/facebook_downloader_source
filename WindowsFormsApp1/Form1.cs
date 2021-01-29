@@ -62,7 +62,7 @@ namespace WindowsFormsApp1
             String base_url = b.Url;
 
             b.Url = base_url + "/photos";
-            ExplicitWait(b, "//*[@id=\"mount_0_0\"]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div/div/div/div/div[3]/div[1]/div[1]/div/div/a/img").Click();
+            ExplicitWait(b, "//*[@id=\"mount_0_0\"]/div/div[1]/div/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div/div/div/div/div/div[3]/div[1]/div[1]/div/div/a/img").Click();
 
             WebClient download_client = new WebClient();
 
